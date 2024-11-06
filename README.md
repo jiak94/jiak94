@@ -17,6 +17,8 @@
 ### Rehab Estimator
   
 ![iTunes App Store](https://img.shields.io/itunes/v/1569047553?style=for-the-badge&label=Rehab%20Estimator&link=https%3A%2F%2Fapp.rehabestimator.app%2F)
+![iTunes App Store](https://img.shields.io/itunes/v/6657758818?style=for-the-badge&label=Rehab%20Estimator&link=https%3A%2F%2Fapp.rehabestimator.app%2F)
+
 
 
 ### AsyncTradier
